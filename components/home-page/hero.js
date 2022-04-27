@@ -4,7 +4,7 @@ import classes from './hero.module.css';
 
 function Hero() {
     return (
-    <section className={classes.hero}>
+        <section className={classes.hero}>
         <div className={classes.image}>
             <Image 
             src="/images/site/nuan.png" 
@@ -12,10 +12,11 @@ function Hero() {
             width={300} 
             height={300} 
             />
+            <a href="#" class="icon-search search-opener"></a>
             </div>
-        <h1>Hi, I'm Nuận</h1>
+        <h1>Lý Bá Luận</h1>
         <p>
-            Toi se kiem 99999$ đô.
+        Để Thành Công Được Phải Chăm Chỉ Người Thành Công Phải TỰ GIÁC 
         </p>
     </section>
     );

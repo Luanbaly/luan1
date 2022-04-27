@@ -14,10 +14,13 @@ function MainNavigation() {
         <nav>
             <ul>
                 <li>
-                    <Link href="/posts">Posts</Link>
+                    <Link href="/posts">POST</Link>
                     </li>
                 <li>
-                    <Link href="/contact">contact</Link>
+                    <Link href="/contact">LIKE</Link>
+                    </li>
+                    <li>
+                    <Link href="/contact">SUB</Link>
                     </li>
             </ul>
         </nav>

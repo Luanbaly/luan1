@@ -1,13 +1,15 @@
-.logo {
-    text-transform: uppercase;
-    font-size: var(--size-5);
-    font-weight: bold;
-    font-family: 'Oswald', sans-serif;
-    color: var(--color-grey-50);
+.logo a {
+    text-transform:inherit;
+    font: weight 5px;
+    font-family:fantasy;
+    color:hsl(276, 83%, 55%);
+    margin:0fr;
   }  
 
-  @media (min-width: 768px) {
-    .logo {
-      font-size: var(--size-8);
+  @media (min-width: 800px) {
+    .logo a {
+      font-size: var(--size-16);
+    color:rgb(61, 245, 132);
+      
     }
   }

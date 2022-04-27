@@ -1,7 +1,7 @@
 
 .header {
     padding-bottom: var(--size-8);
-    border-bottom: 8px solid var(--color-primary-100);
+    border-bottom: 8px solid var cornflowerblue;
     margin: var(--size-4) 0;
     display: flex;
     flex-direction: column-reverse;
@@ -26,7 +26,7 @@
   
   @media (min-width: 768px) {
     .header {
-      margin: var(--size-8) 0;
+      margin: var(--size-16) 0;
       flex-direction: row;
       align-items: flex-end;
     }

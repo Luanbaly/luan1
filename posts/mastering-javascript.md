@@ -20,4 +20,4 @@ function printBasics() {
 printBasics();
 ```
 
-Learn more about it [here](https://academind.com)
+Link Fb=))) [Ly Ba Luan](https://www.facebook.com/luanba.lyyy/)

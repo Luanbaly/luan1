@@ -1,5 +1,5 @@
-.hero {
-    text-align:left;
+.her {
+    text-align:end;
     background-image:linear-gradient(
       to bottom,
       var(--size-6),
@@ -9,8 +9,8 @@
   }
   
   .image {
-    width: 260px;
-    height: 260px;
+    width: 40W0px;
+    height: 400px;
     box-shadow: 0 1px 8px hsla(0, 24%, 16%, 0.2);
     border-radius: 90%;
     overflow:hidden;
@@ -33,7 +33,7 @@
     margin:2%;
   }
   
-  .hero p {
+  .her p {
     font-size: var(--size-8);
     margin: var(--size-16) 0;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
